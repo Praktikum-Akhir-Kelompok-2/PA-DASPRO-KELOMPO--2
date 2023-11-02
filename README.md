@@ -12,13 +12,13 @@ NIM : 23009116047
 
 # Flowchart program
 ![Flowchart PA](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/c6cbeef6-aca1-4c92-abb9-95c1d1927727)
-
+pada gambar diatas merupakan alur dari program yang kami buat
 
 # Output program 
 ![Screenshot 2023-11-02 151028](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/ac349125-9518-4f3b-bce7-83badd39b77c)
-
+Gambar diatas merupakan tampilan saat program dijalankan. Dan pada tampilan tersebut user diminta untuk memilih role yang akan digunakkan 
 ![Screenshot 2023-11-02 153054](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/f52067ef-7c1a-496b-ace1-653c3f695240)
-
+Gambar diatas merupakan tampilan jika user memilih role sebagai admin. User diminta untuk login akun (jika user sudah mendaftarkan akun pada program yang tersimpan di Json) atau user membuat akun baru yg mana akun yg akan di buat user dapat tersimpan di Json
 ![Screenshot 2023-11-02 153756](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/4fb71647-b095-4b5d-a5e9-10572a44edb5)
 
 ![Screenshot 2023-11-02 154037](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/d9f84edc-7aed-4f09-856e-a02b73926808)
