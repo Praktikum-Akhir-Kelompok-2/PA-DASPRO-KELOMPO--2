@@ -59,7 +59,7 @@ tampilan jika admin ingin menghapus data kamar, terdapat keterangan bahwa kamar 
 tampilan admin jka ingin menambahkan saldo customer, data saldo yang ditambahkan akan tersimpan di json
 
 ![Screenshot 2023-11-03 101203](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/1da6a81e-583a-4c66-95ff-a26b862634c3)
-
+Gambar diatas merupakan tampilan jika user memilih role sebagai admin dan memilih untuk membuat akun admin baru. user diminta untuk menginput nama dan password admin baru, setelah itu akan terdapat keterangan bahwa akun admin baru sudah tersimpan di json. setelah itu admin akan diminta untuk login dan jika sudah, akan terdapat keterangan bahwa admin berhasil login
 
 ![Screenshot 2023-11-02 151028](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/1c69224b-9e83-4b4b-b12b-e7e715642f93)
 
