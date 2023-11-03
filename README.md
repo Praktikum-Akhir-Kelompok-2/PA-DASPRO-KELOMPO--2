@@ -1,4 +1,4 @@
-# PA-DASPRO-KELOMPO--2
+# PA-DASPRO-KELOMPOK--2
 ## ANGGOTA KELOMPOK
 
 Nama : Muhammad Hafidh Shovi
@@ -10,8 +10,8 @@ NIM : 2309116012
 Nama : Aura Syahrawani Nasir
 NIM : 23009116047
 
-# Penjelasan Singkat Program Mannequeen Hotel
-Program Mannequeen Hotel adalah program simulasi reservasi hotel yang menawarkan fitur bagi admin dan pelanggan. Bagi admin, program ini memungkinkan pengelolaan daftar kamar hotel seperti CRUD. Selain itu, admin dapat masuk ke dalam sistem untuk akses penuh ke fitur manajemen. Untuk pelanggan, program ini memungkinkan login, pengecekan saldo, penambahan saldo, pemesanan kamar (check-in), dan penyelesaian pemesanan (check-out). Pelanggan juga dapat mendaftar jika belum memiliki akun. Keseluruhan, program ini menyediakan antarmuka yang interaktif dan memanfaatkan file JSON untuk menyimpan informasi kamar dan pelanggan. Meskipun masih membutuhkan beberapa penyesuaian dan penanganan kesalahan yang lebih baik, program Mannequeen Hotel memberikan dasar bagi pengelolaan hotel dan pengalaman pemesanan bagi pelanggan.
+# Penjelasan Singkat Program Sistem Reservasi Hotel
+Program Sistem Reservasi Hotel, The Mannequeen Hotel adalah program simulasi reservasi hotel yang menawarkan fitur bagi admin dan pelanggan. Bagi admin, program ini memungkinkan pengelolaan daftar kamar hotel seperti CRUD. Selain itu, admin dapat masuk ke dalam sistem untuk akses penuh ke fitur manajemen. Untuk pelanggan, program ini memungkinkan login, pengecekan saldo, penambahan saldo, pemesanan kamar (check-in), dan penyelesaian pemesanan (check-out). Pelanggan juga dapat mendaftar jika belum memiliki akun. Keseluruhan, program ini menyediakan antarmuka yang interaktif dan memanfaatkan file JSON untuk menyimpan informasi kamar dan pelanggan. Meskipun masih membutuhkan beberapa penyesuaian dan penanganan kesalahan yang lebih baik, program The Mannequeen Hotel memberikan dasar bagi pengelolaan hotel dan pengalaman pemesanan bagi pelanggan.
 
 # Flowchart program
 
