@@ -74,7 +74,7 @@ Customer login dengan akun yang sudah tersimpan di Json
 
 ![Screenshot 2023-11-03 192010](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/86acb46f-1998-431e-9268-02dc897e6e3e)
 
-Customer berhasil login dan menampilkan menu untuk customer.
+Customer berhasil login dan menampilkan menu untuk customer
 
 ![Screenshot 2023-11-03 192639](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/dfcad8aa-3454-49aa-9571-7ad596a34a69)
 
