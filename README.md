@@ -70,6 +70,6 @@ Gambar diatas merupakan tampilan jika user memilih role sebagai customer. User d
 
 Customer login dengan akun yang sudah tersimpan di Json 
 
-![Screenshot 2023-11-02 161115](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/5c5baf87-453d-4e24-86c5-b535804befbd)
+![Screenshot 2023-11-03 192010](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/86acb46f-1998-431e-9268-02dc897e6e3e)
 
-Tampilan untuk menu customer
+Customer berhasil login dan menampilkan menu untuk customer.
