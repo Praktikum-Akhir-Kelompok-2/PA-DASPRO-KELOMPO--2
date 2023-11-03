@@ -83,3 +83,11 @@ Tampilan jika customer ingin mengecek saldo
 ![Screenshot 2023-11-03 194718](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/75672bd8-5554-4d02-ac89-0b151db4f8d3)
 
 Tampilan jika customer ingin melakukan top up saldo
+
+![Screenshot 2023-11-03 201026](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/3a7d1f92-c18f-4321-acf8-b9b3a1c9a1d2)
+
+Tampilan jika customer ingin melakukan check in
+
+![Screenshot 2023-11-03 201802](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/676a0ddb-209d-4398-8981-48fb2ccd4781)
+
+Tampilan jika customer ingin melakukan check out
