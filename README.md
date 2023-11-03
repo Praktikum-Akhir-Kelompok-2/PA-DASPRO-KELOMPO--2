@@ -21,7 +21,7 @@ pada gambar diatas merupakan alur dari program yang kami buat
 ![Screenshot 2023-11-02 151028](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/ac349125-9518-4f3b-bce7-83badd39b77c)
 
 
-Gambar diatas merupakan tampilan saat program dijalankan. Dan pada tampilan tersebut user diminta untuk memilih role yang akan digunakkan 
+Gambar diatas merupakan tampilan saat program dijalankan. Dan pada tampilan tersebut user diminta untuk memilih role yang akan digunakan 
 ![Screenshot 2023-11-02 153054](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/f52067ef-7c1a-496b-ace1-653c3f695240)
 
 
@@ -61,6 +61,8 @@ tampilan jika admin ingin mengubah data kamar, terdapat keterangan bahwa data su
 tampilan jika admin ingin menghapus data kamar, terdapat keterangan bahwa kamar sudah dihapus dan akan looping ke menu admin
 
 ![Screenshot 2023-11-02 190757](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/52f4e79f-de23-4402-ac01-9cf446d597e1)
+
+tampilan admin jka ingin menambah saldo customer, data saldo yang ditambahkan akan tersimpan di json
 
 ![Screenshot 2023-11-02 151028](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/1c69224b-9e83-4b4b-b12b-e7e715642f93)
 
