@@ -10,6 +10,9 @@ NIM : 2309116012
 Nama : Aura Syahrawani Nasir
 NIM : 23009116047
 
+# Penjelasan Singkat Program Mannequeen Hotel
+Program Mannequeen Hotel adalah program simulasi reservasi hotel yang menawarkan fitur bagi admin dan pelanggan. Bagi admin, program ini memungkinkan pengelolaan daftar kamar hotel seperti CRUD. Selain itu, admin dapat masuk ke dalam sistem untuk akses penuh ke fitur manajemen. Untuk pelanggan, program ini memungkinkan login, pengecekan saldo, penambahan saldo, pemesanan kamar (check-in), dan penyelesaian pemesanan (check-out). Pelanggan juga dapat mendaftar jika belum memiliki akun. Keseluruhan, program ini menyediakan antarmuka yang interaktif dan memanfaatkan file JSON untuk menyimpan informasi kamar dan pelanggan. Meskipun masih membutuhkan beberapa penyesuaian dan penanganan kesalahan yang lebih baik, program Mannequeen Hotel memberikan dasar bagi pengelolaan hotel dan pengalaman pemesanan bagi pelanggan.
+
 # Flowchart program
 
 ![Flowchart PA drawio](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144792158/6e3d0edc-4932-464f-a791-b50d3e4f1b5b)
