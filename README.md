@@ -41,6 +41,10 @@ Gambar diatas merupakan tampilan jika user memilih role sebagai admin. User dimi
 
 ![Screenshot 2023-11-02 151028](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/1c69224b-9e83-4b4b-b12b-e7e715642f93)
 
+![Screenshot 2023-11-03 085044](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/13c707a3-017c-4fe3-ac9d-f590cd8ba2c0)
+
+![Screenshot 2023-11-02 151028](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/2f3debc7-9b08-4319-a434-b24a9537e229)
+
 ![Screenshot 2023-11-02 155842](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/c39abde9-0183-452f-afbf-f65cf290b625)
 
 ![Screenshot 2023-11-02 160415](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/4197ebae-ef07-43a3-bf3c-f3105c4735f6)
