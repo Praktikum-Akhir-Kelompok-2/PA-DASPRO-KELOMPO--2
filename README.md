@@ -73,3 +73,13 @@ Customer login dengan akun yang sudah tersimpan di Json
 ![Screenshot 2023-11-03 192010](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/86acb46f-1998-431e-9268-02dc897e6e3e)
 
 Customer berhasil login dan menampilkan menu untuk customer.
+
+![Screenshot 2023-11-03 192639](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/dfcad8aa-3454-49aa-9571-7ad596a34a69)
+
+Tampilan jika customer ingin mengecek saldo
+
+![Screenshot 2023-11-03 194312](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/b1659890-6569-40b8-ab69-0f35f46df4d5)
+
+![Screenshot 2023-11-03 194718](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/75672bd8-5554-4d02-ac89-0b151db4f8d3)
+
+Tampilan jika customer ingin melakukan top up saldo
