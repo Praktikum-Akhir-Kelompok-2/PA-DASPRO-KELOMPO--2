@@ -16,27 +16,21 @@ NIM : 23009116047
 pada gambar diatas merupakan alur dari program yang kami buat
 
 # Output program 
-
-
 ![Screenshot 2023-11-02 151028](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/ac349125-9518-4f3b-bce7-83badd39b77c)
 
-
 Gambar diatas merupakan tampilan saat program dijalankan. Dan pada tampilan tersebut user diminta untuk memilih role yang akan digunakan 
-![Screenshot 2023-11-02 153054](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/f52067ef-7c1a-496b-ace1-653c3f695240)
 
+![Screenshot 2023-11-02 153054](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/f52067ef-7c1a-496b-ace1-653c3f695240)
 
 Gambar diatas merupakan tampilan jika user memilih role sebagai admin. User diminta untuk login akun (jika user sudah mendaftarkan akun pada program yang tersimpan di Json) atau user membuat akun baru yg mana akun yg akan di buat user dapat tersimpan di Json
 
-
 ![Screenshot 2023-11-02 153756](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/4fb71647-b095-4b5d-a5e9-10572a44edb5)
 
-
-admin login dengan akun yang sudah tersimpan di Json 
-
+Admin login dengan akun yang sudah tersimpan di Json 
 
 ![Screenshot 2023-11-02 154037](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/d9f84edc-7aed-4f09-856e-a02b73926808)
 
-tampilan untuk menu admin ,admin dapat melakukan CRUD data 
+Tampilan untuk menu admin ,admin dapat melakukan CRUD data 
 
 ![Screenshot 2023-11-02 163854](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/821161e1-81aa-4d48-ad8b-1e4be399eadb)
 
@@ -62,11 +56,12 @@ tampilan jika admin ingin menghapus data kamar, terdapat keterangan bahwa kamar 
 
 ![Screenshot 2023-11-02 190757](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/52f4e79f-de23-4402-ac01-9cf446d597e1)
 
-tampilan admin jka ingin menambah saldo customer, data saldo yang ditambahkan akan tersimpan di json
+tampilan admin jka ingin menambahkan saldo customer, data saldo yang ditambahkan akan tersimpan di json
+
+![Screenshot 2023-11-03 101203](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/1da6a81e-583a-4c66-95ff-a26b862634c3)
+
 
 ![Screenshot 2023-11-02 151028](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/1c69224b-9e83-4b4b-b12b-e7e715642f93)
-
-![Screenshot 2023-11-03 085044](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/13c707a3-017c-4fe3-ac9d-f590cd8ba2c0)
 
 ![Screenshot 2023-11-02 151028](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/2f3debc7-9b08-4319-a434-b24a9537e229)
 
