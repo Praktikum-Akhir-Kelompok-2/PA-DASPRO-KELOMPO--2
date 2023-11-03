@@ -34,40 +34,42 @@ Tampilan untuk menu admin ,admin dapat melakukan CRUD data
 
 ![Screenshot 2023-11-02 163854](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/821161e1-81aa-4d48-ad8b-1e4be399eadb)
 
-tampilan jika admin ingin menambahkan data kamar , data kamar yang ditambahkan akan tersimpan di json
+Tampilan jika admin ingin menambahkan data kamar , data kamar yang ditambahkan akan tersimpan di Json
 
 ![Screenshot 2023-11-02 182547](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/b340162c-7087-4338-bd07-8b6a2f63137e)
 
-akan terdapat keterangan bahwa data sudah dimasukkan setelah itu akan looping ke menu admin
+Akan terdapat keterangan bahwa data sudah dimasukkan setelah itu akan looping ke menu admin
 
 ![Screenshot 2023-11-02 185309](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/636395df-738a-4a82-b4fe-8fce431cbbae)
 
-menampilkan data kamar yang ada di json 
+Menampilkan data kamar yang ada di Json 
 
 ![Screenshot 2023-11-02 190117](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/751a57b4-2ebe-4349-9f00-0e03595d9b88)
 
 ![Screenshot 2023-11-02 190242](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/3bc40b83-4c19-4fb8-b6ef-24adc87c9ca7)
 
-tampilan jika admin ingin mengubah data kamar, terdapat keterangan bahwa data sudah dimasukkan dan data kamar yang diubah akan disimpan di json
+Tampilan jika admin ingin mengubah data kamar, terdapat keterangan bahwa data sudah dimasukkan dan data kamar yang diubah akan disimpan di Json
 
 ![Screenshot 2023-11-02 190405](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/e02e12dd-a1af-458b-a365-6066b7e49e60)
 
-tampilan jika admin ingin menghapus data kamar, terdapat keterangan bahwa kamar sudah dihapus dan akan looping ke menu admin
+Tampilan jika admin ingin menghapus data kamar, terdapat keterangan bahwa kamar sudah dihapus dan akan looping ke menu admin
 
 ![Screenshot 2023-11-02 190757](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/52f4e79f-de23-4402-ac01-9cf446d597e1)
 
-tampilan admin jka ingin menambahkan saldo customer, data saldo yang ditambahkan akan tersimpan di json
+Tampilan admin jka ingin menambahkan saldo customer, data saldo yang ditambahkan akan tersimpan di Json
 
 ![Screenshot 2023-11-03 101203](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/1da6a81e-583a-4c66-95ff-a26b862634c3)
-Gambar diatas merupakan tampilan jika user memilih role sebagai admin dan memilih untuk membuat akun admin baru. user diminta untuk menginput nama dan password admin baru, setelah itu akan terdapat keterangan bahwa akun admin baru sudah tersimpan di json. setelah itu admin akan diminta untuk login dan jika sudah, akan terdapat keterangan bahwa admin berhasil login
 
-![Screenshot 2023-11-02 151028](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/1c69224b-9e83-4b4b-b12b-e7e715642f93)
-
-![Screenshot 2023-11-02 151028](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/2f3debc7-9b08-4319-a434-b24a9537e229)
-
-![Screenshot 2023-11-02 155842](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/c39abde9-0183-452f-afbf-f65cf290b625)
+Gambar diatas merupakan tampilan jika user memilih role sebagai admin dan memilih untuk membuat akun admin baru. user diminta untuk menginput nama dan password admin baru, setelah itu akan terdapat keterangan bahwa akun admin baru sudah tersimpan di Json. setelah itu admin akan diminta untuk login dan jika sudah, akan terdapat keterangan bahwa admin berhasil login
 
 ![Screenshot 2023-11-02 160415](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/4197ebae-ef07-43a3-bf3c-f3105c4735f6)
 
+Gambar diatas merupakan tampilan jika user memilih role sebagai customer. User diminta untuk login akun (jika user sudah mendaftarkan akun pada program yang tersimpan di Json) atau user membuat akun baru yg mana akun yg akan di buat user dapat tersimpan di Json
+
+![Screenshot 2023-11-02 155842](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/c39abde9-0183-452f-afbf-f65cf290b625)
+
+Customer login dengan akun yang sudah tersimpan di Json 
+
 ![Screenshot 2023-11-02 161115](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/5c5baf87-453d-4e24-86c5-b535804befbd)
 
+Tampilan untuk menu customer
