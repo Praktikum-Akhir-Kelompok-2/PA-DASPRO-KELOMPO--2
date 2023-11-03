@@ -96,4 +96,4 @@ Tampilan jika customer ingin melakukan check out
 
 ![Screenshot 2023-11-03 222744](https://github.com/Praktikum-Akhir-Kelompok-2/PA-DASPRO-KELOMPO--2/assets/144807237/3cff767e-d0a9-4700-9d6e-47394260b8e4)
 
-Gambar diatas merupakan tampilan jika user memilih role sebagai customer dan memilih untuk membuat akun customer baru. user diminta untuk menginput nama dan password customer baru, setelah itu akan terdapat keterangan bahwa akun customer baru sudah tersimpan di Json. setelah itu customer akan diminta untuk login dan jika sudah, akan terdapat keterangan bahwa admin berhasil login
+Gambar diatas merupakan tampilan jika user memilih role sebagai customer dan memilih untuk membuat akun customer baru. user diminta untuk menginput nama dan password customer baru, setelah itu akan terdapat keterangan bahwa akun customer baru sudah tersimpan di Json. setelah itu customer akan diminta untuk login dan jika sudah, akan terdapat keterangan bahwa customer berhasil login
